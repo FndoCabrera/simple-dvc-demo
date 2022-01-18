@@ -5,8 +5,8 @@ dirs = [
     os.path.join("data","processed"),
     "notebooks",
     "src",
-    "saved_models"
-
+    "saved_models",
+    "report"
 
         ]
 
